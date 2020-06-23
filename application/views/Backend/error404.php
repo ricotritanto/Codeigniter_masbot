@@ -1,0 +1,1 @@
+<img src="<?php echo base_url();?>assets/admin/code/images/404.png">
